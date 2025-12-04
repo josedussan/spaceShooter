@@ -5,6 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Lista de cambios no controlados predeterminada",
 			"files": [
+				"D:/UnrealProjects/spaceShooter/Content/spaceShooter/nivel1.umap",
+				"D:/UnrealProjects/spaceShooter/Content/spaceShooter/SS_GameMode.uasset",
+				"D:/UnrealProjects/spaceShooter/Content/spaceShooter/SS_PlayerController.uasset",
+				"D:/UnrealProjects/spaceShooter/Content/Inputs/IA_Player_Fire.uasset",
+				"D:/UnrealProjects/spaceShooter/Content/Inputs/IA_Player_Movement.uasset",
+				"D:/UnrealProjects/spaceShooter/Content/Inputs/IMC_Player.uasset",
+				"D:/UnrealProjects/spaceShooter/Content/Players/BP_SpaceSpawn.uasset",
+				"D:/UnrealProjects/spaceShooter/Content/Players/BP_SpaceS_Character.uasset",
 				"C:/Users/josed/Downloads/unrealProjects/spaceShooter/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
