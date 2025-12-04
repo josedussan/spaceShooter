@@ -1439,3 +1439,37 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.12.04-13.39.46:909][675]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 382.164612
 [2025.12.04-13.39.47:911][678]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.12.04-13.39.47:911][678]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 382.832428, Update Interval: 334.750824
+[2025.12.04-13.45.26:033][692]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 721.287598
+[2025.12.04-13.45.27:033][695]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.04-13.45.27:034][696]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 721.954590, Update Interval: 353.973816
+[2025.12.04-13.49.48:285][519]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2025.12.04-13.49.48:466][519]LogStall: Shutdown...
+[2025.12.04-13.49.48:467][519]LogStall: Shutdown complete.
+[2025.12.04-13.49.48:627][519]LogSlate: Window 'spaceShooter - Unreal Editor' being destroyed
+[2025.12.04-13.49.49:320][519]Cmd: QUIT_EDITOR
+[2025.12.04-13.49.49:325][519]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.12.04-13.49.49:382][520]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.12.04-13.49.49:395][520]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.12.04-13.49.49:403][520]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.12.04-13.49.49:737][520]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2025.12.04-13.49.49:745][520]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.04-13.49.49:745][520]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Untitled_1.Untitled_1
+[2025.12.04-13.49.49:841][520]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.12.04-13.49.49:857][520]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.12.04-13.49.49:907][520]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.12.04-13.49.49:908][520]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.04-13.49.49:929][520]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.12.04-13.49.49:943][520]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.12.04-13.49.49:943][520]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.12.04-13.49.49:943][520]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.12.04-13.49.50:898][520]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.12.04-13.49.50:899][520]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.12.04-13.49.50:899][520]LogAudio: Display: Audio Device unregistered from world 'Untitled_1'.
+[2025.12.04-13.49.50:899][520]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.12.04-13.49.50:909][520]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.12.04-13.49.50:921][520]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.12.04-13.49.50:950][520]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.12.04-13.49.50:951][520]LogAudio: Display: Audio Device Manager Shutdown
+[2025.12.04-13.49.50:959][520]LogWindowsTextInputMethodSystem: Activated input method: Español (Colombia) - (Keyboard).
+[2025.12.04-13.49.51:073][520]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.12.04-13.49.51:076][520]LogExit: Preparing to exit.
