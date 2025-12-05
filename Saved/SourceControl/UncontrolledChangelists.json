@@ -13,6 +13,9 @@
 				"D:/UnrealProjects/spaceShooter/Content/Inputs/IMC_Player.uasset",
 				"D:/UnrealProjects/spaceShooter/Content/Players/BP_SpaceSpawn.uasset",
 				"D:/UnrealProjects/spaceShooter/Content/Players/BP_SpaceS_Character.uasset",
+				"D:/UnrealProjects/spaceShooter/Content/Players/BP_SpaceS_Ammo.uasset",
+				"D:/UnrealProjects/spaceShooter/Content/UI/BP_SpaceS_HUD.uasset",
+				"D:/UnrealProjects/spaceShooter/Content/UI/BP_SpaceS_GameWidget.uasset",
 				"C:/Users/josed/Downloads/unrealProjects/spaceShooter/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
