@@ -1,0 +1,16 @@
+# Folders that should NEVER go to Git
+Saved/
+Intermediate/
+DerivedDataCache/
+Binaries/
+.vs/
+.nvs/
+
+# Build & project files
+*.sln
+*.VC.db
+*.VC.opendb
+
+# Misc
+*.log
+*.pdb
